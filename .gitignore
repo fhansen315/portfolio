@@ -1,0 +1,41 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/bundle/
+Gemfile.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node (if using any JS tools)
+node_modules/
+npm-debug.log
+
+# Python (if running code samples)
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Build outputs
+dist/
+build/
+*.pdf

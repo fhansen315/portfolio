@@ -1,0 +1,91 @@
+# Jekyll Configuration for GitHub Pages
+# Site: fhansen315.github.io/portfolio
+
+# Site Settings
+title: Felipe Hansen - Automation Engineering Portfolio
+description: >-
+  From SDR to Automation Engineer: Production systems achieving 160x productivity
+  improvement. Python, TypeScript, AI/ML, and full-stack automation.
+baseurl: "/portfolio"
+url: "https://fhansen315.github.io"
+
+# Author
+author:
+  name: Felipe Hansen
+  email: ""
+  github: fhansen315
+  linkedin: fhansen
+
+# Theme - using a clean, professional theme
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown rendering
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+  - README_dev.md
+
+# Include files
+include:
+  - _pages
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "builds"
+    values:
+      layout: "default"
+  - scope:
+      path: "narrative"
+    values:
+      layout: "default"
+  - scope:
+      path: "code-samples"
+    values:
+      layout: "default"
+
+# Collections (optional - for organizing content)
+collections:
+  builds:
+    output: true
+    permalink: /builds/:name
+  projects:
+    output: true
+    permalink: /projects/:name
+
+# Build settings
+future: false
+highlighter: rouge
+
+# Analytics (optional - add your tracking ID)
+# google_analytics: UA-XXXXXXXXX-X
+
+# SEO
+twitter:
+  card: summary
+social:
+  name: Felipe Hansen
+  links:
+    - https://github.com/fhansen315
+    - https://linkedin.com/in/fhansen
