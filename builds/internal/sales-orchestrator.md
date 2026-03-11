@@ -54,7 +54,7 @@ Created Master Automation Orchestrator with 4 AI workflows:
 
 | Metric | Before | After | Improvement |
 |--------|--------|-------|-------------|
-| Lead Processing | 95 hours | 35 min | **160x faster** |
+| Lead Processing | 95 hours | 30 minutes | **160x faster** |
 | Automation Rate | Manual | 99.9% | **Full automation** |
 | Emails Generated | 0 | 400-700 | **Per campaign** |
 | Leads Scored | Manual | 127 | **Auto-scored** |
@@ -81,7 +81,7 @@ Created Master Automation Orchestrator with 4 AI workflows:
 
 ## Impact Statement
 
-> Transformed 95-hour manual process into 35-minute automated pipeline, enabling 160x productivity improvement for sales team.
+> Transformed 95-hour manual process into 30-minute automated pipeline, enabling 160x productivity improvement for sales team.
 
 ---
 

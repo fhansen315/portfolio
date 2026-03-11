@@ -1,6 +1,6 @@
-# Felipe Hansen - Work Portfolio
+# Francisco Hansen - Work Portfolio
 
-**Role**: Solutions Engineer | **Tenure**: 2024-2026 | **Focus**: AI, Sales Automation, Blockchain
+**Role**: Automation Engineer | **Tenure**: 2024-2026 | **Focus**: AI, Sales Automation, Blockchain
 
 ---
 

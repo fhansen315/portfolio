@@ -2,7 +2,7 @@
 # Site: fhansen315.github.io/portfolio
 
 # Site Settings
-title: Felipe Hansen - Automation Engineering Portfolio
+title: Francisco Hansen - Automation Engineering Portfolio
 description: >-
   From SDR to Automation Engineer: Production systems achieving 160x productivity
   improvement. Python, TypeScript, AI/ML, and full-stack automation.
@@ -11,7 +11,7 @@ url: "https://fhansen315.github.io"
 
 # Author
 author:
-  name: Felipe Hansen
+  name: Francisco Hansen
   email: ""
   github: fhansen315
   linkedin: fhansen
@@ -85,7 +85,7 @@ highlighter: rouge
 twitter:
   card: summary
 social:
-  name: Felipe Hansen
+  name: Francisco Hansen
   links:
     - https://github.com/fhansen315
     - https://linkedin.com/in/fhansen

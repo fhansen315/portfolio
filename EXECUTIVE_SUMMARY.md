@@ -1,7 +1,7 @@
 # Executive Summary
 
-## Felipe Hansen
-**Solutions Engineer** | **2024-2026** | **Brazil/LATAM**
+## Francisco Hansen
+**Automation Engineer** | **2024-2026** | **Brazil/LATAM**
 
 ---
 
@@ -139,7 +139,7 @@ I'm seeking a transition from **SDR to Automation/Engineering role**, bringing:
 
 ### Headline
 ```
-Solutions Engineer | Python & AI Automation | 160x Productivity Improvement
+Automation Engineer | Python & AI Automation | 160x Productivity Improvement
 ```
 
 ### About Section (Copy-Paste Ready)
@@ -163,7 +163,7 @@ technical skills and deep understanding of the problems I solved.
 
 ### Short Bio (280 chars)
 ```
-Solutions Engineer who went from SDR to building production automation systems.
+Automation Engineer who went from SDR to building production automation systems.
 160x productivity gains, 99.9% automation rate. Python, AI/ML, full-stack.
 Looking for engineering roles.
 ```

@@ -4,7 +4,7 @@
 
 ```
 2024 Q1-Q2: Foundation & Learning
-├── Joined Ripple as Solutions Engineer
+├── Joined Ripple as SDR (became Automation Engineer)
 ├── LATAM market onboarding
 └── Initial tool exploration
 

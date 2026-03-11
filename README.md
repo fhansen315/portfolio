@@ -1,4 +1,4 @@
-# Felipe Hansen - Automation Engineering Portfolio
+# Francisco Hansen - Automation Engineering Portfolio
 
 > **From SDR to Automation Engineer**: How I taught myself to code and built systems that achieved 160x productivity improvement.
 
